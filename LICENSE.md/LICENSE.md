@@ -2,7 +2,9 @@ General Public Sigong License
 Version 1 by siro
 
 Copyright(C) 2018 siro
+
    GENERAL PUBLIC SIGONG LICENSE
+   
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
    
 1. Anyone who wants to redistribution this software should play "Heroes of the Storm" by Blizzard.
