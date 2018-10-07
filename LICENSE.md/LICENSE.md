@@ -1,6 +1,6 @@
 General Public **Sigong** License
 
-Version 1.2 by siro
+Version 1.3 by siro
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in th
@@ -10,11 +10,10 @@ Software, and to permit persons to whom the Software is furnished to do so, subj
 ect to the following conditions:
    
 1. Anyone who wants to do something with this software MUST play ["Heroes of the Storm"](https://kr.battle.net/heroes/ko) by Blizzard.
-3. "Heroes of the Storm" play proof means the result screen of Heroes of the storm Quick Match.
-4. When original author requested, You MUST send "Heroes of the Storm" play proof.
-5. GyoSeok Lee is not eligible to use, modify or redistribute this software.
-6. Any other terms is same as [MIT License](https://en.wikipedia.org/wiki/MIT_License).
-7. Changing License is permitted, but MUST keep this license file with "LICENSE.sigong" filename.
+2. "Heroes of the Storm" play proof means the result screen of Heroes of the storm Quick Match.
+3. When original author requested, You MUST send "Heroes of the Storm" play proof.
+4. Any other terms is same as [MIT License](https://en.wikipedia.org/wiki/MIT_License).
+5. Changing License is permitted, but MUST keep this license file with "LICENSE.sigong" filename.
 
 ![Image of HOTS](http://www.bloter.net/wp-content/uploads/2017/11/Heroes-of-the-storm-logo.png)
 
