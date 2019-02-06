@@ -1,4 +1,4 @@
-General Public **Sigong** Permissive License
+General Public **Sigong** Light License
 
 Version 2 by siro
 
